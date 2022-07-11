@@ -1,7 +1,6 @@
 # asub
 a.viratwiz.com
 # To-Do
-----------------
 <ol>
   <li>Replace Placeholder Text</li>
   <li>Change Social Media Handles</li>
